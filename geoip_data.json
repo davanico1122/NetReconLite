@@ -1,0 +1,10 @@
+{
+  "8.8.8.8": {"country": "USA", "city": "Mountain View"},
+  "142.250.179.174": {"country": "USA", "city": "Mountain View"},
+  "104.21.85.29": {"country": "USA", "city": "San Francisco"},
+  "192.168.1.1": {"country": "Local Network", "city": "Router"},
+  "10.0.0.1": {"country": "Local Network", "city": "Gateway"},
+  "203.0.113.5": {"country": "Australia", "city": "Sydney"},
+  "198.51.100.22": {"country": "Canada", "city": "Toronto"},
+  "127.0.0.1": {"country": "Localhost", "city": "Your Computer"}
+}
