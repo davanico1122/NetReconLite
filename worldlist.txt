@@ -1,0 +1,16 @@
+www
+mail
+ftp
+smtp
+pop
+imap
+admin
+blog
+webmail
+server
+ns1
+ns2
+test
+dev
+staging
+api
